@@ -1,4 +1,4 @@
 from main import fizzbuzz
 
-def test_pytest():
-    assert 2+2==4
+def test_div_by_3():
+    assert fizzbuzz(3) == True
